@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Android App/Droid/.vs/Droid/v16/Server/sqlite3
+/Android App/Droid/Droid/bin/Debug
+/Android App/Droid/Droid/obj/Debug/90
