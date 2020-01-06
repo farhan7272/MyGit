@@ -16,12 +16,12 @@ namespace Droid
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
-
+            this.Title = "Training Rooms";
             var repo = new RoomRepository();
             var rooms = repo.GetRooms();
 
             var adapter = new ArrayAdapter<TrainingRoom>(this,
-                                                         Resource.Layout.room_list_item,
+                                                         Resource.Layout.room_list_item,Resource.Id.txtRoomItem,
                                                          rooms.ToArray());
 
             this.ListAdapter = adapter;
