@@ -1,16 +1,14 @@
-﻿using System;
-using Android.App;
+﻿using Android.App;
+using Android.Content;
 using Android.OS;
-using Android.Runtime;
-using Android.Support.Design.Widget;
-using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using TrainingRooms;
 
 namespace Droid
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
-    public class MainActivity : AppCompatActivity
+    public class MainActivity : ListActivity
     {
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -19,42 +17,30 @@ namespace Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
-            Android.Support.V7.Widget.Toolbar toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
-            SetSupportActionBar(toolbar);
+            var repo = new RoomRepository();
+            var rooms = repo.GetRooms();
 
-            FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
-            fab.Click += FabOnClick;
+            var adapter = new ArrayAdapter<TrainingRoom>(this,
+                                                         Resource.Layout.room_list_item,
+                                                         rooms.ToArray());
+
+            this.ListAdapter = adapter;
         }
 
-        public override bool OnCreateOptionsMenu(IMenu menu)
+        protected override void OnListItemClick(ListView l, View v, int position, long id)
         {
-            MenuInflater.Inflate(Resource.Menu.menu_main, menu);
-            return true;
+            base.OnListItemClick(l, v, position, id);
+
+            var intent = new Intent(this,
+                                    typeof(TrainingRoomDetailActivity));
+
+            var selectedItem = ((ArrayAdapter<TrainingRoom>)ListAdapter).GetItem(position);
+            intent.PutExtra("roomId", selectedItem.Id);
+
+            StartActivity(intent);
+
         }
 
-        public override bool OnOptionsItemSelected(IMenuItem item)
-        {
-            int id = item.ItemId;
-            if (id == Resource.Id.action_settings)
-            {
-                return true;
-            }
-
-            return base.OnOptionsItemSelected(item);
-        }
-
-        private void FabOnClick(object sender, EventArgs eventArgs)
-        {
-            View view = (View) sender;
-            Snackbar.Make(view, "Replace with your own action", Snackbar.LengthLong)
-                .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
-        }
-        public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
-        {
-            Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
-            base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-        }
-	}
+    }
 }
 
