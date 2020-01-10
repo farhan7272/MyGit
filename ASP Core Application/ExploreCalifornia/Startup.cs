@@ -27,7 +27,10 @@ namespace ExploreCalifornia
 
             app.Use(async (context,next) =>
             {
-                await context.Response.WriteAsync("The first one\n");
+                if (context.Request.Path.Value.StartsWith("/hello"))
+                {
+                    await context.Response.WriteAsync("Hello \t");
+                }
                 await next();
             });
 
