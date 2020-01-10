@@ -24,20 +24,8 @@ namespace ExploreCalifornia
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            app.Use(async (context,next) =>
-            {
-                if (context.Request.Path.Value.StartsWith("/hello"))
-                {
-                    await context.Response.WriteAsync("Hello \t");
-                }
-                await next();
-            });
-
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello ASP.NET Core!");
-            });
+            app.UseFileServer();
+            
         }
     }
 }
