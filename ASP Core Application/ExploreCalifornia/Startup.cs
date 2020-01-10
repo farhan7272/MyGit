@@ -28,7 +28,7 @@ namespace ExploreCalifornia
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseExceptionHandler("/error.html");
-            if (configuration["EnableDevelopersException"] == "True")
+            if (configuration.GetValue<bool>("FeaturesToggles:EnableDevelopersException"))
             {
                 app.UseDeveloperExceptionPage();
             }
