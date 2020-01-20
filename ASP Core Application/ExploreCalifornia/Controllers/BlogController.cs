@@ -59,6 +59,11 @@ namespace ExploreCalifornia.Controllers
         [HttpPost, Route("create")]
         public IActionResult Create(Post post)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
             post.Posted = DateTime.Now;
             post.Author = User.Identity.Name;
             return View();
