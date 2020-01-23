@@ -60,7 +60,7 @@ namespace ExploreCalifornia.Controllers
             _db.Posts.Add(post);
             _db.SaveChanges();
 
-            return View();
+            return RedirectToAction("Index");
         }
     }
 }
