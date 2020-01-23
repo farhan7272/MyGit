@@ -21,23 +21,7 @@ namespace ExploreCalifornia.Controllers
         [Route("")]
         public IActionResult Index()
         {
-            var posts = new[]
-            {
-                new Post
-                {
-                    Title = "My blog post",
-                    Posted = DateTime.Now,
-                    Author = "Jess Chadwick",
-                    Body = "This is a great blog post, don't you think?",
-                },
-                new Post
-                {
-                    Title = "My second blog post",
-                    Posted = DateTime.Now,
-                    Author = "Jess Chadwick",
-                    Body = "This is ANOTHER great blog post, don't you think?",
-                },
-            };
+            var posts = _db.Posts.OrderByDescending(x => x.Posted).ToArray();
 
             return View(posts);
         }
