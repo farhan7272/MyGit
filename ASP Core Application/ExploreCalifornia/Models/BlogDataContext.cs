@@ -12,7 +12,7 @@ namespace ExploreCalifornia.Models
 
         public BlogDataContext(DbContextOptions<BlogDataContext> options) : base(options)
         {
-
+            Database.EnsureCreated();
         }
     }
 }

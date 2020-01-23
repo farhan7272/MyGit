@@ -12,6 +12,12 @@ namespace ExploreCalifornia.Controllers
     [Route("blog")]
     public class BlogController : Controller
     {
+        private readonly BlogDataContext _db;
+        public BlogController(BlogDataContext db)
+        {
+            _db = db;
+        }
+
         [Route("")]
         public IActionResult Index()
         {
@@ -66,6 +72,10 @@ namespace ExploreCalifornia.Controllers
 
             post.Posted = DateTime.Now;
             post.Author = User.Identity.Name;
+
+            _db.Posts.Add(post);
+            _db.SaveChanges();
+
             return View();
         }
     }
