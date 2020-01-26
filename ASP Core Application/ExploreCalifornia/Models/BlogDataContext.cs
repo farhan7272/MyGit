@@ -15,6 +15,29 @@ namespace ExploreCalifornia.Models
             Database.EnsureCreated();
         }
 
+        public IQueryable<Trivia> Trivias
+        {
+            get
+            {
+                return new[]
+                {
+                    new Trivia
+                    {
+                        TriviaQuestion = "California's Mount Whitney measures as the highest peak in the lower 48 states. Its most famous climb is Mount Whitney Trail to the 14,495 feet summit. Wilderness permits are required."
+                    },
+                    new Trivia
+                    {
+                        TriviaQuestion="In 1925 a giant sequoia located in California's Kings Canyon National Park was named the nation's national Christmas tree. The tree is over 300 feet in height."
+                    },
+                    new Trivia
+                    {
+                        TriviaQuestion="More turkeys are raised in California than in any other state in the United States."
+                    }
+
+                }.AsQueryable();
+            }
+        }
+
         public IQueryable<MonthlySpecial> MonthlySpecials
         {
             get

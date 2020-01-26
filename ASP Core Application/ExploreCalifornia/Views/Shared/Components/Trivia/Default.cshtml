@@ -1,0 +1,9 @@
+﻿@model IEnumerable<ExploreCalifornia.Models.Trivia>
+
+<h1>Did You Know?</h1>
+<p>California produces over 17 million gallons of wine each year!</p>
+
+@foreach (var trivia in Model)
+{
+    <p>@trivia.TriviaQuestion</p>    
+}
