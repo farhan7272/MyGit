@@ -13,3 +13,5 @@
 /Core TDD/.vs/LandonHotel/v16
 /Core TDD/.vs/LandonHotel/config
 /Core TDD/LandonHotel/bin/Debug/netcoreapp1.0
+/Core TDD/LandonHotel.Tests/bin/Debug/netcoreapp3.1
+/Core TDD/LandonHotel.Tests/obj
