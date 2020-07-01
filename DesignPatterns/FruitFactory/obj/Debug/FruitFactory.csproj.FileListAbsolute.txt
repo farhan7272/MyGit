@@ -1,0 +1,10 @@
+F:\Git\DesignPatterns\FruitFactory\bin\Debug\FruitFactory.exe.config
+F:\Git\DesignPatterns\FruitFactory\bin\Debug\FruitFactory.exe
+F:\Git\DesignPatterns\FruitFactory\bin\Debug\FruitFactory.pdb
+F:\Git\DesignPatterns\FruitFactory\bin\Debug\Fruits.dll
+F:\Git\DesignPatterns\FruitFactory\bin\Debug\Fruits.pdb
+F:\Git\DesignPatterns\FruitFactory\obj\Debug\FruitFactory.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\FruitFactory\obj\Debug\FruitFactory.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\FruitFactory\obj\Debug\FruitFactory.csproj.CopyComplete
+F:\Git\DesignPatterns\FruitFactory\obj\Debug\FruitFactory.exe
+F:\Git\DesignPatterns\FruitFactory\obj\Debug\FruitFactory.pdb

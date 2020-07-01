@@ -1,0 +1,9 @@
+F:\Git\DesignPatterns\Fruits\bin\Debug\netstandard2.0\Fruits.deps.json
+F:\Git\DesignPatterns\Fruits\bin\Debug\netstandard2.0\Fruits.dll
+F:\Git\DesignPatterns\Fruits\bin\Debug\netstandard2.0\Fruits.pdb
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.AssemblyInfo.cs
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.dll
+F:\Git\DesignPatterns\Fruits\obj\Debug\netstandard2.0\Fruits.pdb
