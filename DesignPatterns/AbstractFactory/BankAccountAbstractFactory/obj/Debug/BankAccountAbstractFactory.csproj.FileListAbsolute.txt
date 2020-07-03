@@ -1,0 +1,16 @@
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BankAccountAbstractFactory.exe.config
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BankAccountAbstractFactory.exe
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BankAccountAbstractFactory.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\obj\Debug\BankAccountAbstractFactory.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\obj\Debug\BankAccountAbstractFactory.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\obj\Debug\BankAccountAbstractFactory.exe
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\obj\Debug\BankAccountAbstractFactory.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BankAccountProvider.dll
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\Interfaces.dll
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\WellsFargoBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BremerBankBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BankAccountProvider.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\Interfaces.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\WellsFargoBankAccount.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\bin\Debug\BremerBankBankAccount.pdb
+F:\Git\DesignPatterns\AbstractFactory\BankAccountAbstractFactory\obj\Debug\BankAccountAbstractFactory.csproj.CopyComplete

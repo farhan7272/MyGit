@@ -1,0 +1,12 @@
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\bin\Debug\netstandard2.0\WellsFargoBankAccount.deps.json
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\bin\Debug\netstandard2.0\WellsFargoBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\bin\Debug\netstandard2.0\WellsFargoBankAccount.pdb
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\bin\Debug\netstandard2.0\Interfaces.dll
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\bin\Debug\netstandard2.0\Interfaces.pdb
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.AssemblyInfo.cs
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.csproj.CopyComplete
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\WellsFargoBankAccount\obj\Debug\netstandard2.0\WellsFargoBankAccount.pdb

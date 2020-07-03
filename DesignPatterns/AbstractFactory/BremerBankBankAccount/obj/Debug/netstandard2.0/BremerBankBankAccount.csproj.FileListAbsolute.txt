@@ -1,0 +1,12 @@
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\bin\Debug\netstandard2.0\BremerBankBankAccount.deps.json
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\bin\Debug\netstandard2.0\BremerBankBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\bin\Debug\netstandard2.0\BremerBankBankAccount.pdb
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\bin\Debug\netstandard2.0\Interfaces.dll
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\bin\Debug\netstandard2.0\Interfaces.pdb
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.AssemblyInfo.cs
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.csproj.CopyComplete
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.dll
+F:\Git\DesignPatterns\AbstractFactory\BremerBankBankAccount\obj\Debug\netstandard2.0\BremerBankBankAccount.pdb

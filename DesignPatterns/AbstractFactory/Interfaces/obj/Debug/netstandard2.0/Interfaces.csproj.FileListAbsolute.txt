@@ -1,0 +1,9 @@
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+F:\Git\DesignPatterns\AbstractFactory\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb

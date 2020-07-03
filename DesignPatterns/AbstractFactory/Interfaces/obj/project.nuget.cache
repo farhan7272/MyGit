@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IYMDUS62tHbfdgay07iW+kkFaHGblWD7wH34RKLN1owL8FiX9piiZvAGaO3MN0638xsbIIzbdLu1H7yxNEqbw==",
+  "success": true,
+  "projectFilePath": "F:\\Git\\DesignPatterns\\AbstractFactory\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
