@@ -1,0 +1,12 @@
+F:\Git\DesignPatterns\Decorator\Components\bin\Debug\netstandard2.0\Components.deps.json
+F:\Git\DesignPatterns\Decorator\Components\bin\Debug\netstandard2.0\Components.dll
+F:\Git\DesignPatterns\Decorator\Components\bin\Debug\netstandard2.0\Components.pdb
+F:\Git\DesignPatterns\Decorator\Components\bin\Debug\netstandard2.0\Component.dll
+F:\Git\DesignPatterns\Decorator\Components\bin\Debug\netstandard2.0\Component.pdb
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.AssemblyInfo.cs
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.csproj.CopyComplete
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.dll
+F:\Git\DesignPatterns\Decorator\Components\obj\Debug\netstandard2.0\Components.pdb

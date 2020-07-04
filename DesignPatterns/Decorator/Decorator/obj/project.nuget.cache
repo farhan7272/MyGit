@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6K3y6vaCfRjYYu8A0KbpxtK5pGiDqny4tAjQfoLOcGVUjL+wIy7jMtpQhrqjJJnfpXXfKNgBMlLcsqmM70baiA==",
+  "success": true,
+  "projectFilePath": "F:\\Git\\DesignPatterns\\Decorator\\Decorator\\Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

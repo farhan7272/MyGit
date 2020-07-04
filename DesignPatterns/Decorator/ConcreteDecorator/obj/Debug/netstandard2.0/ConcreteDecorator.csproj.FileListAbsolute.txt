@@ -1,0 +1,14 @@
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\ConcreteDecorator.deps.json
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\ConcreteDecorator.dll
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\ConcreteDecorator.pdb
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\Component.dll
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\Decorator.dll
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\Decorator.pdb
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\bin\Debug\netstandard2.0\Component.pdb
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.AssemblyInfoInputs.cache
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.AssemblyInfo.cs
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.csproj.CopyComplete
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.dll
+F:\Git\DesignPatterns\Decorator\ConcreteDecorator\obj\Debug\netstandard2.0\ConcreteDecorator.pdb

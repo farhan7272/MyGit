@@ -1,0 +1,16 @@
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Component.dll
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Components.dll
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\ConcreteDecorator.dll
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Decorator.dll
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Components.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Component.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\ConcreteDecorator.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\bin\Debug\Decorator.pdb
+F:\Git\DesignPatterns\Decorator\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CopyComplete
