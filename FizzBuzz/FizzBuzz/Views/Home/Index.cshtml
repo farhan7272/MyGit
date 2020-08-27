@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model FizzBuzz.Models.IndexViewModel
+}
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+    <div class="text-center form-group">
+        <label id="lblEnterArray">Enter values in below text boxes</label>
+
+        <div> <input id="txt1" asp-for="Value1" type="text" /></div>
+        <div> <input id="txt2" asp-for="Value2" type="text" /></div>
+        <div><input id="txt3" asp-for="Value3" type="text" /></div>
+        <div><input id="txt4" asp-for="Value4" type="text" /></div>
+        <div><input id="txt5" asp-for="Value5" type="text" /></div>
+        <div><input id="txt6" asp-for="Value6" type="text" /></div>
+        <div><input id="txt7" asp-for="Value7" type="text" /></div>
+
+        <input type="submit" id="btnsubmit" value="Submit" />
+    </div>
+</form>
+
